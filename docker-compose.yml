@@ -2,9 +2,9 @@ version: "3.7"
 
 services:
   tortoisebot-ros2-test:
-    build:
-      context: .
-      dockerfile: Dockerfile
+    # build:
+    #   context: .
+    #   dockerfile: Dockerfile
     image: skvallab/skvallab-cp17:tortoisebot-ros2-test  
     container_name: tortoisebot-test-ros2
     expose:

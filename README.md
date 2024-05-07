@@ -18,7 +18,6 @@ https://github.com/vallab/ros2_ci
       
       
           The authenticity of host 'github.com (20.27.177.113)' can't be established.
-          ECDSA key fingerprint is SHA256:p2QAMXNIC1TJYWeIOttrVc98/R1BUFWu3/LiyKgUfQM.
           Are you sure you want to continue connecting (yes/no/[fingerprint])? yes
 
 1. Install Jenkins on your server. Shell file for latest Jenkins version is already in the rosject. Paste the command below in your rosject terminal. 
